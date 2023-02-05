@@ -34,3 +34,7 @@ The current system of using a dry erase board to keep track of which server gets
 - There will be a 'Clock out' button to permanently remove server from rotation for the rest of the day
 - There will be a 'jump' button - reserved for servers who may have customers request to seat them. 'Jump' feature will skip server in next rotation
 - The app will reset at midnight, clearing totals and removing server names 
+
+
+## Wireframe
+![wireframe](./src/assets/figma-wireframe.png)
