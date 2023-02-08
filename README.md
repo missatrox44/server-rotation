@@ -38,3 +38,5 @@ The current system of using a dry erase board to keep track of which server gets
 
 ## Wireframe
 ![wireframe](./src/assets/wireframe.png)
+
+
